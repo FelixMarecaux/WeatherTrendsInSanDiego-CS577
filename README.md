@@ -8,15 +8,13 @@ This project explores long-term weather patterns in San Diego, California, using
 Repository Structure
 
 WeatherTrendsInSanDiego-CS577/
-│
-├── data.csv                  # Raw historical weather data
-├── main_analysis.ipynb       # Jupyter Notebook with full analysis and visualizations
-├── output/
-│   ├── figures/              # Generated plots and summary CSVs
-│   │   ├── *.png             # Visualizations (temperature, precipitation, anomalies, extremes)
-│   │   ├── *.csv             # Summary tables and descriptive statistics
-└── README.md                 # Project documentation
-```
+- data.csv                  # Raw historical weather data
+-main_analysis.ipynb       # Jupyter Notebook with full analysis and visualizations
+-output/
+    figures/              # Generated plots and summary CSVs
+    *.png             # Visualizations (temperature, precipitation, anomalies, extremes)
+    *.csv             # Summary tables and descriptive statistics
+-README.md                 # Project documentation
 
 ---
 
